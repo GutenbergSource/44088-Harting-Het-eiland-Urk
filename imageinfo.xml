@@ -1,0 +1,18 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-16 11:37:33" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 11:37:33" width="16px" height="11px"/>
+<image path="images/external.png" filesize="151" filedate="2018-03-30 17:51:45" width="12px" height="12px"/>
+<image path="images/frontis.png" filesize="21540" filedate="2018-12-16 11:37:35" width="720px" height="186px"/>
+<image path="images/lbrace15.png" filesize="810" filedate="2018-12-16 11:37:37" width="26px" height="350px"/>
+<image path="images/lbrace17.png" filesize="800" filedate="2018-12-16 11:37:38" width="21px" height="380px"/>
+<image path="images/lbrace2.png" filesize="225" filedate="2018-12-16 11:37:39" width="14px" height="46px"/>
+<image path="images/lbrace6.png" filesize="386" filedate="2018-12-16 11:37:39" width="16px" height="132px"/>
+<image path="images/new-cover.jpg" filesize="52810" filedate="2018-03-30 17:51:47" width="480px" height="720px"/>
+<image path="images/qrcode.png" filesize="269" filedate="2018-12-16 11:37:48" width="148px" height="148px"/>
+<image path="images/rbrace12.png" filesize="411" filedate="2018-12-16 11:37:49" width="14px" height="160px"/>
+<image path="images/rbrace2.png" filesize="220" filedate="2018-12-16 11:37:49" width="14px" height="46px"/>
+<image path="images/rbrace4.png" filesize="311" filedate="2018-12-16 11:37:49" width="16px" height="90px"/>
+<image path="images/rbrace5.png" filesize="336" filedate="2018-12-16 11:37:50" width="15px" height="112px"/>
+<image path="images/rbrace6.png" filesize="367" filedate="2018-12-16 11:37:50" width="15px" height="132px"/>
+<image path="images/titlepage.png" filesize="6664" filedate="2018-12-16 11:37:52" width="415px" height="720px"/>
+</images>
